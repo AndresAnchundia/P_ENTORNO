@@ -59,7 +59,7 @@ while True:
 #fin del código.        
 
         print("")
-        print("valor incorrecto!!!!!!!!!!!!!!!!!!!!")
+        print("")
         print("")
         
 #fin del código. 
